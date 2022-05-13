@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tickets>
+  <ticket>
+    <trainNo>13</trainNo>
+    <originStation>Cluj-Napoca</originStation>
+    <destinationStation>Bistrita</destinationStation>
+    <duration>23411</duration>
+    <seats>37</seats>
+    <price>1231</price>
+    <id>2132342</id>
+  </ticket>
+  <ticket>
+    <trainNo>12</trainNo>
+    <originStation>Cluj-Napoca</originStation>
+    <destinationStation>Bucuresti</destinationStation>
+    <duration>120</duration>
+    <seats>20</seats>
+    <price>14</price>
+    <id>100</id>
+  </ticket>
+  <ticket>
+    <trainNo>123</trainNo>
+    <originStation>Bucuresti</originStation>
+    <destinationStation>Brasov</destinationStation>
+    <duration>12312</duration>
+    <seats>11</seats>
+    <price>1</price>
+    <id>123123</id>
+  </ticket>
+  <ticket>
+    <trainNo>12</trainNo>
+    <originStation>Cluj-Napoca</originStation>
+    <destinationStation>Bucuresti</destinationStation>
+    <duration>120</duration>
+    <seats>20</seats>
+    <price>14</price>
+    <id>101</id>
+  </ticket>
+</tickets>

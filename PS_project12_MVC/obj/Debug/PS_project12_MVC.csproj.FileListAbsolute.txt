@@ -1,0 +1,13 @@
+D:\PS\PS_project12_MVC\PS_project12_MVC\bin\Debug\PS_project12_MVC.exe.config
+D:\PS\PS_project12_MVC\PS_project12_MVC\bin\Debug\PS_project12_MVC.exe
+D:\PS\PS_project12_MVC\PS_project12_MVC\bin\Debug\PS_project12_MVC.pdb
+D:\PS\PS_project12_MVC\PS_project12_MVC\obj\Debug\PS_project12_MVC.Properties.Resources.resources
+D:\PS\PS_project12_MVC\PS_project12_MVC\obj\Debug\PS_project12_MVC.csproj.GenerateResource.cache
+D:\PS\PS_project12_MVC\PS_project12_MVC\obj\Debug\PS_project12_MVC.csproj.CoreCompileInputs.cache
+D:\PS\PS_project12_MVC\PS_project12_MVC\obj\Debug\PS_project12_MVC.exe
+D:\PS\PS_project12_MVC\PS_project12_MVC\obj\Debug\PS_project12_MVC.pdb
+D:\PS\PS_project12_MVC\PS_project12_MVC\obj\Debug\PS_project12_MVC.View.AdminV.resources
+D:\PS\PS_project12_MVC\PS_project12_MVC\obj\Debug\PS_project12_MVC.View.UserV.resources
+D:\PS\PS_project12_MVC\PS_project12_MVC\obj\Debug\PS_project12_MVC.View.AuthenticationV.resources
+D:\PS\PS_project12_MVC\PS_project12_MVC\obj\Debug\PS_project12_MVC.View.EmployeeV.resources
+D:\PS\PS_project12_MVC\PS_project12_MVC\obj\Debug\PS_project12_MVC.csproj.AssemblyReference.cache
