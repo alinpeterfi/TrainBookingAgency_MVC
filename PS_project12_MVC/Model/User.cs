@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace PS_project12_MVC.Model
+﻿namespace PS_project12_MVC.Model
 {
     public class User
     {
@@ -33,6 +27,7 @@ namespace PS_project12_MVC.Model
             this.role = u.role;
         }
 
+        //setters and getters
         public string getUserName()
         {
             return this.userName;

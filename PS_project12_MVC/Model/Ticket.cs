@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace PS_project12_MVC.Model
+﻿namespace PS_project12_MVC.Model
 {
     public class Ticket : Train
     {
@@ -36,7 +30,7 @@ namespace PS_project12_MVC.Model
             this.price = t.price;
             this.id = t.id;
         }
-
+        //setters and getters
         public int getSeats()
         {
             return this.seats;

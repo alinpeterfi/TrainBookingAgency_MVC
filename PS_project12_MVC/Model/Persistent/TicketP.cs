@@ -1,13 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Xml.Linq;
 using System.Windows.Forms;
 
 namespace PS_project12_MVC.Model.Persistent
 {
+    //XML management function for tickets CRUD
     public class TicketP
     {
         public bool AddTicket(Ticket t)
@@ -75,7 +74,6 @@ namespace PS_project12_MVC.Model.Persistent
 
         public Ticket TicketSearch(int ticketId)
         {
-            //trainNo,  originStation,  destinationStation, duration, seats, price, id)
             try
             {
                 XDocument xDoc = XDocument.Load(@"tickets.xml");
@@ -106,7 +104,6 @@ namespace PS_project12_MVC.Model.Persistent
 
         public Ticket TicketSell (int ticketId, int offset) //offset pentru refill
         {
-            //trainNo,  originStation,  destinationStation, duration, seats, price, id)
             try
             {
                 XDocument xDoc = XDocument.Load(@"tickets.xml");
@@ -203,7 +200,6 @@ namespace PS_project12_MVC.Model.Persistent
                     return ticketList;
                 else
                     return null;
-
             }
             catch (Exception e)
             {
@@ -246,6 +242,5 @@ namespace PS_project12_MVC.Model.Persistent
                 return null;
             }
         }
-
     }//main class
     }

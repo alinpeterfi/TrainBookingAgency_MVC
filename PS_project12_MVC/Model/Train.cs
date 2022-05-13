@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace PS_project12_MVC.Model
+﻿namespace PS_project12_MVC.Model
 {
     public class Train
     {
@@ -36,6 +30,7 @@ namespace PS_project12_MVC.Model
             this.destinationStation = t.destinationStation;
             this.duration = t.duration;
         }
+        //setters and getters
 
         public int getTrainNo()
         {

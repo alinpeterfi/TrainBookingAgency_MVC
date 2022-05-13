@@ -1,8 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 using PS_project12_MVC.Model;
 using PS_project12_MVC.Model.Persistent;
@@ -326,6 +323,5 @@ namespace PS_project12_MVC.Controller
             foreach (DataGridViewRow row in list)
                 ((EmployeeV)this.uV).getDgvUser().Rows.Add(row);
         }
-
     }//UserC
 }

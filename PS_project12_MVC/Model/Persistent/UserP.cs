@@ -1,13 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Xml.Linq;
 using System.Windows.Forms;
 
 namespace PS_project12_MVC.Model.Persistent
-{
+{    //XML management function for users CRUD
     public class UserP
     {
         public bool AddUser(User ut)

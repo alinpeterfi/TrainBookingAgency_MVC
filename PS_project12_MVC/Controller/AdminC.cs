@@ -1,8 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 using PS_project12_MVC.Model;
 using PS_project12_MVC.Model.Persistent;
@@ -32,7 +29,7 @@ namespace PS_project12_MVC.Controller
             return this.uV;            
         }
 
-        //function that handlers the events
+        //function that handles the events
         private void setEvents()
         {
             
@@ -253,9 +250,5 @@ namespace PS_project12_MVC.Controller
             }
             return null;
         }
-
-
-
-
     }//AdminC
 }
